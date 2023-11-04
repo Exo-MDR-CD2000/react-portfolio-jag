@@ -13,3 +13,8 @@ export default function Home() {
     </div>
   );
 }
+
+
+//TODO: fix styling to match original portfolio
+// figure out how to resize hero image
+// change font size of text in hero image
