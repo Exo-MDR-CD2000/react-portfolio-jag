@@ -6,7 +6,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 // Bootstrap for future use
 import 'bootstrap/dist/css/bootstrap.min.css';
-//import './index.css'
+import './css/index.css';
 
 
 // Bring in the pages we want to route to

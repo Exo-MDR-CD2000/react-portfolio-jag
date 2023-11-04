@@ -1,0 +1,23 @@
+:root {
+  --text: #f4fdff;
+  --background: #000;
+  --primary-button: #5b7553;
+  --secondary-button: #22313f;
+  --accent: #34495e;
+  --font-family: "Roboto", sans-serif;
+  --shadow-text-black: 2px 4px 4px rgb(0, 0, 0);
+  --outline: #000000b7 solid 2px;
+  /* --shadow-text-white: 2px 2px 4px rgba(255, 255, 255, 0.932); */
+  /* above has basic styling choices for entire site */
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background);
+  font-family: var(--font-family);
+  font-size: 16px;
+  color: var(--text);
+}
