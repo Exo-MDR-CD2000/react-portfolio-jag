@@ -21,3 +21,55 @@ body {
   font-size: 16px;
   color: var(--text);
 }
+
+
+.nav {
+    justify-content: flex-end;
+    --bs-nav-link-color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hero-container-box {
+    padding: 30px 0 0; /* top, right, bottom*/
+    padding: 30px 0 0 0; /* top, right, bottom, left */
+    padding: 30px 0; /* top/bottom, left/right */
+    padding: 30px; /* all around */
+    /* the above was just an example of how the values work for top, right, left and bottom */
+    margin-top: 300px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    background-image: url(/src/assets/laptop-4k-hero-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+}
+
+.hero-avatar img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    outline: var(--outline);
+    /* box-shadow: var(--box-shadow); */
+}
