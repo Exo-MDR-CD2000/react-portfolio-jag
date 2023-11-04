@@ -18,4 +18,4 @@ function App() {
   export default App;
   
 
-  // replace greeting with something else
+  // if this is done correctly, the outlet component will render the correct page based on the route
