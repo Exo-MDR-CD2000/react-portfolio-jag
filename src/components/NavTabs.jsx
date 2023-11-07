@@ -6,7 +6,7 @@ function NavTabs() {
 
     return (
         <div className="navContainer">
-            <h1 className="initials">JAG</h1>
+            <h1 className="initials">J.G</h1>
             <ul className="nav nav-tabs">
                 <li className="nav-item">
                     <Link to="/" className={currentPage === "/" ? "nav-link active" : "nav-link"}>
