@@ -68,14 +68,32 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center; 
+    text-align: center;
 }
 
 .hero-avatar img{
-    max-width: 100%;
-    height: auto;
+
     border-radius: 50%;
-    width: 200px;
     height: 200px;
     outline: var(--outline);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
     /* box-shadow: var(--box-shadow); */
+    /* width: 200px; */
+    /* max-width: 100%;
+    /* height: auto; */
+}
+
+.hero-h1 h1 {
+  color: var(--text);
+  font-weight: bolder;
+  text-shadow: var(--shadow-text-black);
+  text-align: center;
+}
+
+.hero-p p {
+  color: var(--text);
+  font-style: italic;
+  text-shadow: var(--shadow-text-black)
 }

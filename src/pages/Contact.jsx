@@ -1,14 +1,14 @@
 import { useState } from "react";
 
-export function ContactBlurb() {
-  <div className="contact-blurb">
-    <h1>Contact</h1>
-    <p>
-      If you have any questions or would like to get in contact with me, 
-      please feel free to send me a message here.
-    </p>
-  </div>
-}
+// export function ContactBlurb() {
+//   <div className="contact-blurb">
+//     <h1>Contact</h1>
+//     <p>
+//       If you have any questions or would like to get in contact with me, 
+//       please feel free to send me a message here.
+//     </p>
+//   </div>
+// }
 
 
 export default function ContactForm() {
