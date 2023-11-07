@@ -35,6 +35,7 @@ body {
 .nav {
     justify-content: flex-end;
     --bs-nav-link-color: #ffffff;
+    font-family: var(--font-family);
 }
 
 .nav-tabs {
