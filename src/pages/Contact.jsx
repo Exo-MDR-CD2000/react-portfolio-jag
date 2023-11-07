@@ -43,3 +43,6 @@ export default function ContactForm() {
     </form>
   );
 }
+
+
+// look into this site for email form: https://www.emailjs.com/

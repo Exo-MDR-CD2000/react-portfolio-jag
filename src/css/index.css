@@ -28,9 +28,15 @@ body {
     --bs-nav-link-color: #ffffff;
 }
 
+.nav-tabs {
+  --bs-nav-tabs-border-color: none;
+}
 
 
-
+.navContainer {
+  display: flex;
+  justify-content: space-between;
+}
 
 
 
