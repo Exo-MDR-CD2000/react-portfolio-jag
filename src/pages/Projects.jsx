@@ -34,7 +34,7 @@ function Projects() {
           title="Culinary Chronicles"
           imageUrl="src/assets/Culinary-Chronicles.png"
           description="Recipe site following the MVC paradigm"
-          projectUrl="https://culinary-chronicle-38d83bbc86cd.herokuapp.com/login"
+          projectUrl="https://github.com/GregFJr/Culinary-Chronicles"
         />
         <ProjectCards
           title="MVC Blog"
@@ -46,7 +46,7 @@ function Projects() {
           title="Mongo Social API"
           imageUrl="src/assets/mongo-social-insomnia.png"
           description="Social platform API tool using NoSQL database. Uses Insomnia to test routes."
-          projectUrl="https://github.com/Exo-MDR-CD2000/week-1-challenge-HTML-symantecs"
+          projectUrl="https://github.com/Exo-MDR-CD2000/Mongo-Social-API"
         />
 
       </section>
