@@ -13,6 +13,7 @@ import './css/index.css';
 import App from './App'
 import Home from './pages/Home.jsx'
 import About from './pages/About'
+import Projects from './pages/Projects'
 import Contact from './pages/Contact'
 import Resume from './pages/Resume'
 import Error from './pages/Error'
@@ -34,6 +35,10 @@ const router = createBrowserRouter([
       {
         path: '/about',
         element: <About />,
+      },
+      {
+        path: '/projects',
+        element: <Projects />,
       },
       {
         path: '/contact',
