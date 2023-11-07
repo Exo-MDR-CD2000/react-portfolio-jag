@@ -110,6 +110,35 @@ body {
 
 
 
+.about-page-container {
+  margin-top: 300px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.about-h1 {
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -163,4 +192,40 @@ body {
 }
 .portfolio-p {
   text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.resume-container {
+  margin-top: 300px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.resume-link-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+a.resume-link:hover {
+  color: var(--text);
 }

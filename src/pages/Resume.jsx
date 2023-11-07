@@ -1,16 +1,22 @@
-export default function About() {
-    return (
-      <div>
+export default function Resume() {
+  return (
+    <div className="resume-container">
+      <div className="resume-h1">
         <h1>Resume</h1>
-        <p>
-          Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-          Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-          mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-          lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-          imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-          in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
-        </p>
       </div>
-    );
-  }
-  
+      <div className="resume-p">
+        <p>
+          You can download my resume by clicking the link below. If you have any
+          questions or would like to get in contact with me, feel free to use
+          the external links below or the ones on my resume. The contact tab is
+          a work in progress.
+        </p>
+        <div className="resume-link-container">
+          <a href="src/assets/Resume_Guillen - Web-Dev-Rev.pdf" download className="resume-link">
+            Download Resume
+          </a>
+        </div>
+      </div>
+    </div>
+  );
+}
