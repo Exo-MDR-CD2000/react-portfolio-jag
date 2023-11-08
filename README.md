@@ -16,7 +16,7 @@ Click on the deployed link below to visit my portfolio site.
 
 - [Github Repo](https://github.com/Exo-MDR-CD2000/react-portfolio-jag)
 
-- [Heroku Deployed](WIP)
+- [WIP PORTFOLIO](WIP)
 
 ## Credits
 
