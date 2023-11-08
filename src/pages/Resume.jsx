@@ -20,3 +20,6 @@ export default function Resume() {
     </div>
   );
 }
+
+
+// https://projects.wojtekmaj.pl/react-pdf/
