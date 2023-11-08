@@ -1,4 +1,5 @@
 # React-Portfolio-JAG
+My personal portfolio site built with react.
 
 ## Description
 
