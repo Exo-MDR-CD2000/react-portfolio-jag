@@ -10,6 +10,8 @@ This is my personal portfolio site built using react. The site is based off of m
 
 Click on the deployed link below to visit my portfolio site.
 
+<img src="src/assets/portfolio-pic.png" alt="portfolio-pic" width="500"/>
+
 ## Deployment Link(s)
 
 - [Github Repo](https://github.com/Exo-MDR-CD2000/react-portfolio-jag)
